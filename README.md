@@ -1,6 +1,6 @@
 # Carousel
 
-Bienvenue sur le projet Carousel ! Ce projet a pour but de vous présenter un carrousel simple et fonctionnel réalisé en HTML, CSS et JavaScript. Il utilise les propriétés CSS `flexbox` et `translateX` pour faire défiler les images horizontalement, et les boutons "Précédent" et "Suivant" pour contrôler manuellement le défilement. Il y a également une fonctionnalité d'auto-défilement avec des points de navigation pour passer d'une image à l'autre.
+Bienvenue sur le projet Carousel ! Ce projet a pour but de vous présenter un carrousel simple et fonctionnel réalisé en HTML, CSS et JavaScript. Il utilise les propriétés CSS `flexbox` et `translateX` pour faire défiler les images horizontalement, et les boutons "Précédent" et "Suivant" pour contrôler manuellement le défilement. Il y a également une fonctionnalité d'auto-défilement avec des points de navigation pour passer d'une image à l'autre ainsi que le `glisser pour defiler sur les smartphones`.
 
 ## Prérequis
 
@@ -14,9 +14,9 @@ Pour utiliser ce projet, veuillez cloner le repository Github sur votre ordinate
 
 Le projet est composé des fichiers suivants:
 
-`index.html` : Le fichier HTML principal qui contient le code HTML du carrousel
-`style.css` : Le fichier CSS qui contient la mise en forme du carrousel
-`app.js` : Le fichier JavaScript qui contient le code JavaScript du carrousel
+- `index.html` : Le fichier HTML principal qui contient le code HTML du carrousel
+- `style.css` : Le fichier CSS qui contient la mise en forme du carrousel
+- `app.js` : Le fichier JavaScript qui contient le code JavaScript du carrousel
 
 ## Fonctionnalités
 
