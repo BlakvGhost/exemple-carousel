@@ -49,3 +49,5 @@ J'espère que ce projet vous a plu et vous a été utile. Si vous avez des sugge
 ## Licence
 
 Ce projet est sous licence MIT.
+
+![Screenshot](screenshot.png)
