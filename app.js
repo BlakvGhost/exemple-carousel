@@ -6,7 +6,7 @@
 (function () {
     // Utilisation de la directive "use strict" pour activer le mode strict en JavaScript
     // Cela implique une meilleure gestion des erreurs et une syntaxe plus stricte pour le code
-    "use stict"
+    "use strict"
 
     // Déclare la constante pour la durée de chaque slide
     const slideTimeout = 5000;
